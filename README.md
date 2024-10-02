@@ -37,6 +37,10 @@ Ensure you have all the necessary libraries installed before running these comma
 | --- | --- | --- | --- | --- | 
 | <img src="img/Screenshot 2024-10-02 231659.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231713.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231723.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231737.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231753.png" width="200"/> | 
 
+### Audio Ouput
+
+https://github.com/user-attachments/assets/94df8627-387c-4b3f-8fac-f18add1e6194
+
 
 ### Video Outputs
 
