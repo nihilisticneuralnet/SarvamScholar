@@ -23,3 +23,16 @@ Follow these steps to set up the project:
 4. **Run the Application**: Finally, run the application using Streamlit by executing `python -m streamlit run app.py`.
 
 Ensure you have all the necessary libraries installed before running these commands.
+
+## Architecture Flow
+![architecture_flow](https://github.com/user-attachments/assets/e81002a9-668f-422f-b778-b5866d66b3df)
+
+## Results
+
+### Images
+ image | 0 generations | 250 generations | 500 generations | 750 generations | 
+| --- | --- | --- | --- | --- | 
+| <img src="img/Screenshot 2024-10-02 231659.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231713.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231723.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231737.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231753.png" width="200"/> | 
+
+
+### Videos
