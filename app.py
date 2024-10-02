@@ -9,7 +9,9 @@ import base64
 import json
 import io
 from IPython.display import Audio
+
 load_dotenv()
+
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
@@ -84,8 +86,6 @@ def sarvam_api_call(endpoint, data):
     }
     response = requests.post(f"{SARVAM_API_URL}/{endpoint}", headers=headers, json=data)
     return response.json()
-
-
 
 def perform_translation(text, source_lang="en-IN", target_lang="hi-IN"):
     url = f"{SARVAM_API_URL}/translate"
@@ -165,7 +165,6 @@ def main():
     if 'module_content' not in st.session_state:
         st.session_state.module_content = ''
 
-    # Sidebar navigation
     st.sidebar.title("Navigation")
     step = st.sidebar.selectbox(
         "Go to step:",
@@ -173,7 +172,6 @@ def main():
         index=['input', 'select_title', 'customize_outline', 'generate_content'].index(st.session_state.step)
     )
 
-    # Back button
     if st.sidebar.button("Back"):
         if st.session_state.step == 'select_title':
             st.session_state.step = 'input'
@@ -229,7 +227,6 @@ def main():
         st.subheader(st.session_state.selected_title)
         st.write("Drag and drop to reorder modules or add your own:")
         
-        # Allow user to add custom modules
         new_module = st.text_input("Add a new module:")
         if st.button("Add Module"):
             if new_module:
@@ -252,6 +249,7 @@ def main():
     elif st.session_state.step == 'generate_content':
         st.header("Step 4: Generate Content for First Module")
         st.subheader(st.session_state.selected_title)
+        # give the outline for just first module for the course
         st.write(f"First Module: {st.session_state.course_outline[0]}")
 
         if not st.session_state.module_content:
@@ -274,9 +272,9 @@ def main():
         if option == "Translation to Hindi":
             if st.button("Translate to Hindi"):
                 with st.spinner("Translating..."):
-                    print(st.session_state.module_content)
+                    # print(st.session_state.module_content)
                     result = perform_translation(st.session_state.module_content)
-                    print(result)
+                    # print(result)
                     if result:
                         st.write("Hindi Translation:")
                         st.write(result['translated_text'])
@@ -291,7 +289,7 @@ def main():
                                 with st.spinner("Generating speech..."):
                                     # print(st.session_state.module_content)
                                     audio_datah = perform_tts(st.session_state.module_content, speakerh)
-                                    print(audio_datah)
+                                    # print(audio_datah)
                                     if audio_datah:
                                         with open("t2sh.wav", "wb") as wav_audioh: 
                                             wav_audioh.write(audio_data)
@@ -318,7 +316,7 @@ def main():
                 with st.spinner("Generating speech..."):
                     # print(st.session_state.module_content)
                     audio_data = perform_tts(st.session_state.module_content, speaker)
-                    print(audio_data)
+                    # print(audio_data)
                     if audio_data:
                         with open("t2s.wav", "wb") as wav_audio: 
                             wav_audio.write(audio_data)
