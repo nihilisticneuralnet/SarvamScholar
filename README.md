@@ -11,9 +11,9 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**: Run `git clone https://github.com/nihilisticneuralnet/SarvamScholar.git` to clone the repository to your local machine.
 
-2. **Install Dependencies**: Navigate to the project directory and install the required packages by running `cd <repository-directory>` followed by `pip install -r requirements.txt`. Make sure to replace `<repository-directory>` with the name of your cloned directory.
+2. **Install Dependencies**: Navigate to the project directory and install the required packages by running `cd <repository-directory>` followed by `pip install -r requirements.txt`. 
 
-3. **Set Up Environment Variables**: Create a `.env` file in the project root directory and insert your Gemini and Sarvam API keys as follows:
+3. **Set Up Environment Variables**: In the `.env` file in the project root directory and insert your Gemini and Sarvam API keys as follows:
    ```plaintext
    GEMINI_API_KEY=<your-gemini-api-key>
    SARVAM_API_KEY=<your-sarvam-api-key>
@@ -22,4 +22,4 @@ Follow these steps to set up the project:
 
 4. **Run the Application**: Finally, run the application using Streamlit by executing `python -m streamlit run app.py`.
 
-Ensure you have all the necessary tools installed before running these commands.
+Ensure you have all the necessary libraries installed before running these commands.
