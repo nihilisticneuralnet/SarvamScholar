@@ -41,8 +41,14 @@ Working of the system
 
 https://github.com/user-attachments/assets/f1824f38-9d34-4135-9985-06a499fea5d7
 
+
 Output of AI Avatar using 'DreamTalk'
 
 https://github.com/user-attachments/assets/ef567f2c-0951-4017-8329-0c22767b8321
 
-
+## References
+- https://ai.google.dev/gemini-api/docs/api-key
+- https://www.sarvam.ai/
+- https://huggingface.co/spaces/fffiloni/dreamtalk/tree/main
+- https://github.com/camenduru/dreamtalk-colab
+- https://huggingface.co/wangfuyun/AnimateLCM
