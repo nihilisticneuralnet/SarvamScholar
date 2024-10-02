@@ -29,10 +29,14 @@ Ensure you have all the necessary libraries installed before running these comma
 
 ## Results
 
-### Images
- image | 0 generations | 250 generations | 500 generations | 750 generations | 
+### Image Outputs
+ 1: Input your Course Content | 2. Select Course Title | 3. Customize Course Outlines | 4. Course Content | 5. Hindi Translation of the Content | 
 | --- | --- | --- | --- | --- | 
 | <img src="img/Screenshot 2024-10-02 231659.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231713.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231723.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231737.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231753.png" width="200"/> | 
 
 
-### Videos
+### Video Outputs
+<video width="640" height="480" controls>
+  <source src="img/screen-capture.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
