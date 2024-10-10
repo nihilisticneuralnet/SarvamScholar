@@ -27,7 +27,7 @@ Ensure you have all the necessary libraries installed before running these comma
 
 ## Architecture Flow
 
-[//]: ![architecture_flow](https://github.com/user-attachments/assets/e81002a9-668f-422f-b778-b5866d66b3df)
+[//]: ![architecture_flow1](https://github.com/user-attachments/assets/e81002a9-668f-422f-b778-b5866d66b3df)
 ![architecture_flow_2](https://github.com/user-attachments/assets/80723615-feb1-446b-b2a9-f2da8f12163e)
 
 ## Results
@@ -40,7 +40,10 @@ Ensure you have all the necessary libraries installed before running these comma
 
 ### Audio Ouput
 
-https://github.com/user-attachments/assets/94df8627-387c-4b3f-8fac-f18add1e6194
+[//]: [version1]https://github.com/user-attachments/assets/94df8627-387c-4b3f-8fac-f18add1e6194
+
+https://github.com/user-attachments/assets/93bdcb6e-f513-4b15-a21c-aae37a567aea
+
 
 
 ### Video Outputs
@@ -50,9 +53,14 @@ Working of the system
 https://github.com/user-attachments/assets/f1824f38-9d34-4135-9985-06a499fea5d7
 
 
+
 Output of AI Avatar using 'DreamTalk'
 
-https://github.com/user-attachments/assets/ef567f2c-0951-4017-8329-0c22767b8321
+[//]: [version1]https://github.com/user-attachments/assets/ef567f2c-0951-4017-8329-0c22767b8321
+
+
+https://github.com/user-attachments/assets/3d9d0128-4981-4d71-aa00-59f3112ecea8
+
 
 ## Next steps
 
