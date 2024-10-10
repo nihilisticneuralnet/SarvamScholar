@@ -50,8 +50,15 @@ https://github.com/user-attachments/assets/93bdcb6e-f513-4b15-a21c-aae37a567aea
 
 Working of the system
 
-https://github.com/user-attachments/assets/f1824f38-9d34-4135-9985-06a499fea5d7
+[//]: https://github.com/user-attachments/assets/f1824f38-9d34-4135-9985-06a499fea5d7
 
+Part 1:
+
+https://github.com/user-attachments/assets/2f03d79c-2ddb-4e63-bd7a-4e7fee40a99b
+
+Part 2:
+
+https://github.com/user-attachments/assets/736bf265-1cf1-48fe-8082-be372ec3d9db
 
 
 Output of AI Avatar using 'DreamTalk'
