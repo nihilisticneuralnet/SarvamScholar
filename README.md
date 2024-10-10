@@ -27,7 +27,7 @@ Ensure you have all the necessary libraries installed before running these comma
 
 ## Architecture Flow
 
-![architecture_flow](https://github.com/user-attachments/assets/e81002a9-668f-422f-b778-b5866d66b3df)
+[//]: ![architecture_flow](https://github.com/user-attachments/assets/e81002a9-668f-422f-b778-b5866d66b3df)
 ![architecture_flow_2](https://github.com/user-attachments/assets/80723615-feb1-446b-b2a9-f2da8f12163e)
 
 ## Results
@@ -62,6 +62,8 @@ Here are some things I may want to do.
 
 - AI Avatar: Integrate AI Avatar (which can act as an instructor for the course) using '[DreamTalk](https://huggingface.co/spaces/fffiloni/dreamtalk/tree/main)'
 
+- Image Generation: Use VertexAI (Imagen) for image generation
+  
 - Video Generation: Generate Video for each module using [AnimateLCM](https://huggingface.co/wangfuyun/AnimateLCM)
 
 - Languages: For prototype purposes, I have only written the code for Hindi language. Bring more languages into the code
