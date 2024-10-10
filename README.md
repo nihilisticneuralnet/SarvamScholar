@@ -36,7 +36,7 @@ Ensure you have all the necessary libraries installed before running these comma
 
  1: Input your Course Content | 2. Select Course Title | 3. Customize Course Outlines | 4. Course Content | 5. Hindi Translation of the Content | 
 | --- | --- | --- | --- | --- | 
-| <img src="img/Screenshot 2024-10-02 231659.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231713.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231723.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231737.png" width="200"/> | <img src="img/Screenshot 2024-10-02 231753.png" width="200"/> | 
+| <img src="img/1.png" width="200"/> | <img src="img/2.png" width="200"/> | <img src="img/3.png" width="200"/> | <img src="img/4.png" width="200"/> | <img src="img/5.png" width="200"/> | 
 
 ### Audio Ouput
 
