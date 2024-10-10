@@ -76,7 +76,7 @@ Here are some things I may want to do.
 
 - Languages: For prototype purposes, I have only written the code for Hindi language. Bring more languages into the code
 
-- Prompt-Tuning: For further optimization of LLM output
+- Prompt-Tuning: For further optimization of LLM responses
 
 ## References
 
