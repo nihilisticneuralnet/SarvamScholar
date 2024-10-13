@@ -85,7 +85,11 @@ Here are some things I may want to do.
 
 - Prompt-Tuning: For further optimization of LLM responses
 
-- Additional Inputs: take input as Pdf or a Youtube link and parse it for specific content generation
+- Additional Inputs: Take input as Pdf or a Youtube link and parse it for specific content generation
+
+- RAG: Implement RAG model to verify the content generated accuracy
+
+- Revenue: Pay-as-you-go service model can be implemented
 
 ## References
 
