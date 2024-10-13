@@ -69,6 +69,22 @@ Output of AI Avatar using 'DreamTalk'
 https://github.com/user-attachments/assets/3d9d0128-4981-4d71-aa00-59f3112ecea8
 
 
+## Revnue
+
+### Freemium Model
+- Free Basic Access: Offer free access to basic course creation features, such as generating course outlines or short quizzes.
+  
+- Premium Features: Charge for advanced features like AI avatars (e.g., DreamTalk), multilingual content generation, voiceovers, detailed presentations, and full-fledged course generation.
+
+#### Subscription Tiers:
+
+- Basic Tier: Limited content creation (e.g., one course per month).
+
+- Pro Tier: Unlimited courses, access to premium AI-generated content (videos, images), advanced customization options.
+
+- Enterprise Tier: Custom solutions for educational institutions or businesses with bulk content needs, advanced integrations, and dedicated support.
+
+
 ## Next steps
 
 Here are some things I may want to do.
@@ -89,7 +105,6 @@ Here are some things I may want to do.
 
 - RAG: Implement RAG model to verify the content generated accuracy
 
-- Revenue: Pay-as-you-go service model can be implemented
 
 ## References
 
